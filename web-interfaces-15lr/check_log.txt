@@ -1,0 +1,22 @@
+﻿[05.05.2024 15:29:12] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:29:12] https://moodle3.chmnu.edu.ua/ - OK
+[05.05.2024 15:30:12] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:30:12] https://moodle3.chmnu.edu.ua/ - OK
+[05.05.2024 15:31:13] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:31:13] https://moodle3.chmnu.edu.ua/ - OK
+[05.05.2024 15:32:13] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:32:13] https://moodle3.chmnu.edu.ua/ - OK
+[05.05.2024 15:33:14] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:33:14] https://moodle3.chmnu.edu.ua/ - OK
+[05.05.2024 15:34:14] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[05.05.2024 15:34:14] https://moodle3.chmnu.edu.ua/ - OK
+[07.05.2024 17:48:14] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[07.05.2024 17:48:14] https://moodle3.chmnu.edu.ua/ - OK
+[07.05.2024 20:54:08] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[07.05.2024 20:54:08] https://moodle3.chmnu.edu.ua/ - OK
+[07.05.2024 20:54:47] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[07.05.2024 20:54:47] https://moodle3.chmnu.edu.ua/ - OK
+[12.05.2024 19:35:08] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[12.05.2024 19:35:08] https://moodle3.chmnu.edu.ua/ - OK
+[12.05.2024 19:36:08] https://moodle3.chmnu.edu.ua/ - доступна. Код статусу: OK
+[12.05.2024 19:36:08] https://moodle3.chmnu.edu.ua/ - OK
